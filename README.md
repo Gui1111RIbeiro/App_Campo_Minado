@@ -21,7 +21,7 @@ APP Campo Minado
 
 # Project Description
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. [Describe]
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. In this project, I made a minefield similar to minesweeper, learning how to use time in flutter and explored a lot about the functions of buttons, such as onTap, onHold, Switch buttons.
 
 # 📁 Access the Project
 
@@ -46,6 +46,10 @@ This project was developed as part of my study on the flutter framework. I was c
 - `Feature 1`: icon image
 - `Feature 2`: split screen 
 - `Feature 3`: compatible for both devices IOS and Android
+- `Feature 4`: see the time passing 
+- `Feature 5`: lossing or winning is possible to restart the game
+- `Feature 6`: you can hold the number to show the houses around you if you checked all bomb numbers around
+
 
 # ▶ Run the Project
 

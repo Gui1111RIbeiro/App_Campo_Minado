@@ -1,15 +1,66 @@
-# my_app
+APP Campo Minado
+==========
+## A Flutter Project
 
-A new Flutter project.
+![](https://play-lh.googleusercontent.com/p11kV_h4I96S7LT-c_oZAs278HzGISfib30JvMVFzN7FzUCJfU9JnX8dzC5VMUy1cs8)
 
-## Getting Started
+# Index
 
-This project is a starting point for a Flutter application.
+* [Index](#index)
+* [Project Status](#project-status)
+* [Project Description](#project-description)
+* [Access the Project](#-access-the-project)
+* [Requirements](#-requirements)
+* [Project Features](#-project-features)
+* [Run the Project](#-run-the-project)
+* [Authors](#-authors)
 
-A few resources to get you started if this is your first Flutter project:
+# Project Status
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](https://img.shields.io/badge/state-success-brightgreen/github/deployments/:user/:repo/:environment)
+
+# Project Description
+
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. [Describe]
+
+# 📁 Access the Project
+
+**Is found in Github: "https://github.com/Gui1111RIbeiro/App_Calculadora"**
+
+# 📝 Requirements
+
+- ## Install the DartSDK in your machine
+
+**https://dart.dev/get-dart**
+
+- ## Install the FlutterSDK in your machine
+
+**https://docs.flutter.dev/get-started/install**
+ 
+ - ## Install and configure AndroidStudio in your machine
+
+ **https://developer.android.com/studio**
+
+# 🔨 Project Features
+
+- `Feature 1`: icon image
+- `Feature 2`: split screen 
+- `Feature 3`: compatible for both devices IOS and Android
+
+# ▶ Run the Project
+
+- `To execute the programm, use:`
+
+```console
+flutter run
+```
+
+# 👨‍💻 Authors
+
+| [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/Gui1111RIbeiro)
+| :---: |
+
+### End
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

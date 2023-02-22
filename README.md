@@ -25,7 +25,7 @@ This project was developed as part of my study on the flutter framework. I was c
 
 # 📁 Access the Project
 
-**Is found in Github: "https://github.com/Gui1111RIbeiro/App_Calculadora"**
+**Is found in Github: "https://github.com/Gui1111RIbeiro/App_Campo_Minado"**
 
 # 📝 Requirements
 

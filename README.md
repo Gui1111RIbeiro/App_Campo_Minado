@@ -17,7 +17,7 @@ APP Campo Minado
 
 # Status do Projeto
 
-![](https://img.shields.io/badge/state-success-brightgreen/github/deployments/:user/:repo/:environment)
+![Badge Success](https://img.shields.io/badge/Status-Sucesso-brightgreen?style=for-the-badge)
 
 # Descrição do Projeto
 

@@ -9,7 +9,7 @@ APP Campo Minado
 * [Índice](#índice)
 * [Status do Projeto](#status-do-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Acessar o Projeto](#-acessar-o-projeto)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
 * [Requisitos](#-requisitos)
 * [Funcionalidades do Projeto](#-funcionalidades-do-projeto)
 * [Executar o Projeto](#-executar-o-projeto)
@@ -23,7 +23,7 @@ APP Campo Minado
 
 Este projeto foi desenvolvido como parte do meu estudo sobre o framework Flutter. Eu estava curioso sobre como desenvolver um aplicativo móvel, então comecei a estudar e desenvolver vários aplicativos para melhorar minhas habilidades. Neste projeto, criei um campo minado semelhante ao jogo Campo Minado, aprendendo como usar o tempo em Flutter e explorando muito sobre as funções dos botões, como onTap, onHold e Switch buttons.
 
-# 📁 Acessar o Projeto
+# 📁 Acesso ao Projeto
 
 **Está disponível no Github: "https://github.com/GuiQueirozRibeiro/App_Campo_Minado"**
 

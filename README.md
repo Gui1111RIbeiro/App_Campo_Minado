@@ -1,70 +1,71 @@
-APP Campo Minado
+APP Mine Field
 ==========
-## Um projeto Flutter
+## A Flutter Project
 
 ![](https://play-lh.googleusercontent.com/p11kV_h4I96S7LT-c_oZAs278HzGISfib30JvMVFzN7FzUCJfU9JnX8dzC5VMUy1cs8)
 
-# Índice
+# Index
 
-* [Índice](#índice)
-* [Status do Projeto](#status-do-projeto)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Acessar o Projeto](#-acessar-o-projeto)
-* [Requisitos](#-requisitos)
-* [Funcionalidades do Projeto](#-funcionalidades-do-projeto)
-* [Executar o Projeto](#-executar-o-projeto)
-* [Autores](#-autores)
+* [Index](#index)
+* [Project Status](#project-status)
+* [Project Description](#project-description)
+* [Access the Project](#-access-the-project)
+* [Requirements](#-requirements)
+* [Project Features](#-project-features)
+* [Run the Project](#-run-the-project)
+* [Authors](#-authors)
 
-# Status do Projeto
+# Project Status
 
 ![](https://img.shields.io/badge/state-success-brightgreen/github/deployments/:user/:repo/:environment)
 
-# Descrição do Projeto
+# Project Description
 
-Este projeto foi desenvolvido como parte do meu estudo sobre o framework Flutter. Eu estava curioso sobre como desenvolver um aplicativo móvel, então comecei a estudar e desenvolver vários aplicativos para melhorar minhas habilidades. Neste projeto, criei um campo minado semelhante ao jogo Campo Minado, aprendendo como usar o tempo em Flutter e explorando muito sobre as funções dos botões, como onTap, onHold e Switch buttons.
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. In this project, I made a minefield similar to minesweeper, learning how to use time in flutter and explored a lot about the functions of buttons, such as onTap, onHold, Switch buttons.
 
-# 📁 Acessar o Projeto
+# 📁 Access the Project
 
-**Está disponível no Github: "https://github.com/GuiQueirozRibeiro/App_Campo_Minado"**
+**Is found in Github: "https://github.com/GuiQueirozRibeiro/App_Campo_Minado"**
 
-# 📝 Requisitos
+# 📝 Requirements
 
-- ## Instale o DartSDK em sua máquina
+- ## Install the DartSDK in your machine
 
 **https://dart.dev/get-dart**
 
-- ## Instale o FlutterSDK em sua máquina
+- ## Install the FlutterSDK in your machine
 
 **https://docs.flutter.dev/get-started/install**
  
-- ## Instale e configure o AndroidStudio em sua máquina
+- ## Install and configure AndroidStudio in your machine
 
 **https://developer.android.com/studio**
 
-# 🔨 Funcionalidades do Projeto
+# 🔨 Project Features
 
-- `Funcionalidade 1`: imagem do ícone
-- `Funcionalidade 2`: tela dividida
-- `Funcionalidade 3`: compatível com dispositivos IOS e Android
-- `Funcionalidade 4`: veja o tempo passando
-- `Funcionalidade 5`: é possível reiniciar o jogo ao perder ou ganhar
-- `Funcionalidade 6`: você pode manter o número para mostrar as casas ao redor de você se já tiver verificado todos os números de bomba ao redor
+- `Feature 1`: icon image
+- `Feature 2`: split screen
+- `Feature 3`: compatible for both devices IOS and Android
+- `Feature 4`: see the time passing
+- `Feature 5`: lossing or winning is possible to restart the game
+- `Feature 6`: you can hold the number to show the houses around you if you checked all bomb numbers around
 
-# ▶ Executar o Projeto
 
-- `Para executar o programa, use:`
+# ▶ Run the Project
+
+- `To execute the programm, use:`
 
 ```console
 flutter run
 ```
 
-# 👨‍💻 Autores
+# 👨‍💻 Authors
 
 | [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/GuiQueirozRibeiro)
 | :---: |
 
-### Fim
+### End
 
-Para obter ajuda para começar a desenvolver com o Flutter, consulte a
-[documentação online](https://docs.flutter.dev/), que oferece tutoriais,
-exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference

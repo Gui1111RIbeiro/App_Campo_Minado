@@ -45,7 +45,7 @@ Este projeto foi desenvolvido como parte do meu estudo sobre o framework Flutter
 
 - `Funcionalidade 1`: imagem do ícone
 - `Funcionalidade 2`: tela dividida
-- `Funcionalidade 3`: compatível com dispositivos IOS e Android
+- `Funcionalidade 3`: compatível com ambos dispositivos IOS e Android
 - `Funcionalidade 4`: veja o tempo passando
 - `Funcionalidade 5`: é possível reiniciar o jogo ao perder ou ganhar
 - `Funcionalidade 6`: você pode manter o número para mostrar as casas ao redor de você se já tiver verificado todos os números de bomba ao redor

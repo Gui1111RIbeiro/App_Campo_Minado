@@ -44,7 +44,7 @@ This project was developed as part of my study on the flutter framework. I was c
 # 🔨 Project Features
 
 - `Feature 1`: icon image
-- `Feature 2`: split screen
+- `Feature 2`: splash screen
 - `Feature 3`: compatible for both devices IOS and Android
 - `Feature 4`: see the time passing
 - `Feature 5`: lossing or winning is possible to restart the game

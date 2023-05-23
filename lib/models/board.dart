@@ -5,7 +5,7 @@ import 'field.dart';
 class Board {
   final int lines;
   final int rows;
-  final int numBombs;
+  int numBombs;
 
   final List<Field> _fields = [];
 

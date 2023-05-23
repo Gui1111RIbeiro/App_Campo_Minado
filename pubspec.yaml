@@ -12,25 +12,30 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   stop_watch_timer: ^2.0.0
+  vibration: ^1.7.7
+  assets_audio_player: ^3.0.6
+  audioplayers: ^4.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.1
-  flutter_launcher_icons: ^0.11.0
+  flutter_launcher_icons: ^0.13.1
 
-flutter_icons:
+flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/icons/1024.png"
-  adaptive_icon_background: "#191919"
-  adaptive_icon_foreground: "assets/icons/1024.png"
+  image_path: "assets/icons/icon.png"
+  adaptive_icon_background: "#010101"
+  adaptive_icon_foreground: "assets/icons/icon.png"
+  remove_alpha_ios: true
 
 flutter:
   uses-material-design: true
 
   assets:
+    - assets/audios/
     - assets/images/aberto_0.jpeg
     - assets/images/aberto_1.jpeg
     - assets/images/aberto_2.jpeg

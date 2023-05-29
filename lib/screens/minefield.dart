@@ -110,7 +110,7 @@ class _MinefieldState extends State<Minefield> {
         try {
           if (campo.opened) {
             campo.openNeighborhood();
-            _vibrate();
+            if (_vibrationEnabled) _vibrate();
           } else {
             campo.open();
           }
@@ -120,7 +120,7 @@ class _MinefieldState extends State<Minefield> {
         } on ExplosionException {
           _win = false;
           _board!.revealBombs();
-          _vibrate();
+          if (_vibrationEnabled) _vibrate();
         }
       } else {
         if (_bombs == 0 && !campo.marked) {

@@ -88,8 +88,8 @@ class ResultWidget extends StatelessWidget implements PreferredSizeWidget {
                       color: Colors.black,
                       borderRadius: BorderRadius.all(Radius.circular(5.0)),
                     ),
-                    child: Transform.scale(
-                      scale: size / 60,
+                    child: FittedBox(
+                      fit: BoxFit.scaleDown,
                       child: Text(
                         '$numBombs',
                         style: TextStyle(
@@ -157,21 +157,23 @@ class ResultWidget extends StatelessWidget implements PreferredSizeWidget {
                       child: _getImage(),
                     ),
                   ),
-                  Container(
-                    padding: const EdgeInsets.all(3),
-                    decoration: const BoxDecoration(
-                      color: Colors.black,
-                      borderRadius: BorderRadius.all(Radius.circular(5.0)),
-                    ),
-                    child: Transform.scale(
-                      scale: size / 60,
-                      child: Text(
-                        time!,
-                        style: TextStyle(
-                          backgroundColor: Colors.black,
-                          color: Colors.red,
-                          fontSize: fontSize,
-                          fontWeight: FontWeight.bold,
+                  Expanded(
+                    child: Container(
+                      padding: const EdgeInsets.all(3),
+                      decoration: const BoxDecoration(
+                        color: Colors.black,
+                        borderRadius: BorderRadius.all(Radius.circular(5.0)),
+                      ),
+                      child: FittedBox(
+                        fit: BoxFit.scaleDown,
+                        child: Text(
+                          time!,
+                          style: TextStyle(
+                            backgroundColor: Colors.black,
+                            color: Colors.red,
+                            fontSize: fontSize,
+                            fontWeight: FontWeight.bold,
+                          ),
                         ),
                       ),
                     ),
